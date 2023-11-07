@@ -1,0 +1,15 @@
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/obj/Debug/net7.0/GetSetDemo.csproj.AssemblyReference.cache
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/obj/Debug/net7.0/GetSetDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/obj/Debug/net7.0/GetSetDemo.AssemblyInfoInputs.cache
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/obj/Debug/net7.0/GetSetDemo.AssemblyInfo.cs
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/obj/Debug/net7.0/GetSetDemo.csproj.CoreCompileInputs.cache
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/bin/Debug/net7.0/GetSetDemo
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/bin/Debug/net7.0/GetSetDemo.deps.json
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/bin/Debug/net7.0/GetSetDemo.runtimeconfig.json
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/bin/Debug/net7.0/GetSetDemo.dll
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/bin/Debug/net7.0/GetSetDemo.pdb
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/obj/Debug/net7.0/GetSetDemo.dll
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/obj/Debug/net7.0/refint/GetSetDemo.dll
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/obj/Debug/net7.0/GetSetDemo.pdb
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/obj/Debug/net7.0/GetSetDemo.genruntimeconfig.cache
+/home/dibyan/dev/dotnet_lessons/GetSetDemo/obj/Debug/net7.0/ref/GetSetDemo.dll

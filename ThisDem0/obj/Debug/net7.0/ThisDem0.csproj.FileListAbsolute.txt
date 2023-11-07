@@ -1,0 +1,15 @@
+/home/dibyan/dev/dotnet_lessons/ThisDem0/bin/Debug/net7.0/ThisDem0
+/home/dibyan/dev/dotnet_lessons/ThisDem0/bin/Debug/net7.0/ThisDem0.deps.json
+/home/dibyan/dev/dotnet_lessons/ThisDem0/bin/Debug/net7.0/ThisDem0.runtimeconfig.json
+/home/dibyan/dev/dotnet_lessons/ThisDem0/bin/Debug/net7.0/ThisDem0.dll
+/home/dibyan/dev/dotnet_lessons/ThisDem0/bin/Debug/net7.0/ThisDem0.pdb
+/home/dibyan/dev/dotnet_lessons/ThisDem0/obj/Debug/net7.0/ThisDem0.csproj.AssemblyReference.cache
+/home/dibyan/dev/dotnet_lessons/ThisDem0/obj/Debug/net7.0/ThisDem0.GeneratedMSBuildEditorConfig.editorconfig
+/home/dibyan/dev/dotnet_lessons/ThisDem0/obj/Debug/net7.0/ThisDem0.AssemblyInfoInputs.cache
+/home/dibyan/dev/dotnet_lessons/ThisDem0/obj/Debug/net7.0/ThisDem0.AssemblyInfo.cs
+/home/dibyan/dev/dotnet_lessons/ThisDem0/obj/Debug/net7.0/ThisDem0.csproj.CoreCompileInputs.cache
+/home/dibyan/dev/dotnet_lessons/ThisDem0/obj/Debug/net7.0/ThisDem0.dll
+/home/dibyan/dev/dotnet_lessons/ThisDem0/obj/Debug/net7.0/refint/ThisDem0.dll
+/home/dibyan/dev/dotnet_lessons/ThisDem0/obj/Debug/net7.0/ThisDem0.pdb
+/home/dibyan/dev/dotnet_lessons/ThisDem0/obj/Debug/net7.0/ThisDem0.genruntimeconfig.cache
+/home/dibyan/dev/dotnet_lessons/ThisDem0/obj/Debug/net7.0/ref/ThisDem0.dll

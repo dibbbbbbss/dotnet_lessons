@@ -1,0 +1,15 @@
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/obj/Debug/net7.0/ConstructorDemo.csproj.AssemblyReference.cache
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/obj/Debug/net7.0/ConstructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/obj/Debug/net7.0/ConstructorDemo.AssemblyInfoInputs.cache
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/obj/Debug/net7.0/ConstructorDemo.AssemblyInfo.cs
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/obj/Debug/net7.0/ConstructorDemo.csproj.CoreCompileInputs.cache
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/bin/Debug/net7.0/ConstructorDemo
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/bin/Debug/net7.0/ConstructorDemo.deps.json
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/bin/Debug/net7.0/ConstructorDemo.runtimeconfig.json
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/bin/Debug/net7.0/ConstructorDemo.dll
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/bin/Debug/net7.0/ConstructorDemo.pdb
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/obj/Debug/net7.0/ConstructorDemo.dll
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/obj/Debug/net7.0/refint/ConstructorDemo.dll
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/obj/Debug/net7.0/ConstructorDemo.pdb
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/obj/Debug/net7.0/ConstructorDemo.genruntimeconfig.cache
+/home/dibyan/dev/dotnet_lessons/ConstructorDemo/obj/Debug/net7.0/ref/ConstructorDemo.dll
